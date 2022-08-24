@@ -1,0 +1,14 @@
+C:\Users\017557631\source\repos\SomaDeImpares\SomaDeImpares\obj\Debug\netcoreapp3.1\SomaDeImpares.csproj.AssemblyReference.cache
+C:\Users\017557631\source\repos\SomaDeImpares\SomaDeImpares\obj\Debug\netcoreapp3.1\SomaDeImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017557631\source\repos\SomaDeImpares\SomaDeImpares\obj\Debug\netcoreapp3.1\SomaDeImpares.AssemblyInfoInputs.cache
+C:\Users\017557631\source\repos\SomaDeImpares\SomaDeImpares\obj\Debug\netcoreapp3.1\SomaDeImpares.AssemblyInfo.cs
+C:\Users\017557631\source\repos\SomaDeImpares\SomaDeImpares\obj\Debug\netcoreapp3.1\SomaDeImpares.csproj.CoreCompileInputs.cache
+C:\Users\017557631\source\repos\SomaDeImpares\SomaDeImpares\bin\Debug\netcoreapp3.1\SomaDeImpares.exe
+C:\Users\017557631\source\repos\SomaDeImpares\SomaDeImpares\bin\Debug\netcoreapp3.1\SomaDeImpares.deps.json
+C:\Users\017557631\source\repos\SomaDeImpares\SomaDeImpares\bin\Debug\netcoreapp3.1\SomaDeImpares.runtimeconfig.json
+C:\Users\017557631\source\repos\SomaDeImpares\SomaDeImpares\bin\Debug\netcoreapp3.1\SomaDeImpares.runtimeconfig.dev.json
+C:\Users\017557631\source\repos\SomaDeImpares\SomaDeImpares\bin\Debug\netcoreapp3.1\SomaDeImpares.dll
+C:\Users\017557631\source\repos\SomaDeImpares\SomaDeImpares\bin\Debug\netcoreapp3.1\SomaDeImpares.pdb
+C:\Users\017557631\source\repos\SomaDeImpares\SomaDeImpares\obj\Debug\netcoreapp3.1\SomaDeImpares.dll
+C:\Users\017557631\source\repos\SomaDeImpares\SomaDeImpares\obj\Debug\netcoreapp3.1\SomaDeImpares.pdb
+C:\Users\017557631\source\repos\SomaDeImpares\SomaDeImpares\obj\Debug\netcoreapp3.1\SomaDeImpares.genruntimeconfig.cache
